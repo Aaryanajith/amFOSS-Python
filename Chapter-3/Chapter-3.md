@@ -52,3 +52,6 @@ To prevent a program from crashing when it gets an error we use the try-except s
 
 # 14. What goes in the try clause? What goes in the except clause?
 The code that could potentially crash is put in the try clause and and in the except clause we give the error to look out for. When an error is caught in the try clause the execution immediately moves to the try clause and after that the code execution continues as normal.
+
+# PROJECT
+[The collatz sequence](https://github.com/Aaryanajith/amFOSS-Python/blob/main/Chapter-3/The_Collatz_Sequence.py)
