@@ -65,7 +65,7 @@ else:
 	
 	
 #9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, and prints Greetings! if anything else is stored in spam.	
-[Click Here]
+[Click Here](https://github.com/Aaryanajith/amFOSS-Python/blob/main/Chapter-2/Qn_9.py)
 
 
 # 10. What keys can you press if your program is stuck in an infinite loop?
@@ -80,7 +80,7 @@ There is no difference in all three range functions as all return the same value
 
 
 # 13. Write a short program that prints the numbers 1 to 10 using a for loop. Then write an equivalent program that prints the numbers 1 to 10 using a while loop.
-[Click Here]
+[Click Here](https://github.com/Aaryanajith/amFOSS-Python/blob/main/Chapter-2/Qn_13.py)
 
 
 # 14. If you had a function named bacon() inside a module named spam, how would you call it after importing spam?
