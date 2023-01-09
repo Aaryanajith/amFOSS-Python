@@ -64,7 +64,7 @@ else:
 	print('ham')
 	
 	
-#9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, and prints Greetings! if anything else is stored in spam.	
+# 9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, and prints Greetings! if anything else is stored in spam.	
 [Click Here](https://github.com/Aaryanajith/amFOSS-Python/blob/main/Chapter-2/Qn_9.py)
 
 
