@@ -19,8 +19,11 @@ Expressions are made up of values and operators. Expression are used to evaluate
 
  
 # 5. This chapter introduced assignment statements, like spam = 10. What is the difference between an expression and a statement?
-An expression is used to evaluate the values and operators but a statement but a statement is a syntaticaly correct liine of code which specifies an task to be executed.
+An expression is used to evaluate the values and operators but a statement but a statement is a syntaticaly correct line of code which specifies an task to be executed.
+
+
 # 6. What does the variable bacon contain after the following code runs?
+The variable bacon contains 20
 # 7. What should the following two expressions evaluate to?
 # 8. Why is eggs a valid variable name while 100 is invalid?
 # 9. What three functions can be used to get the integer, floating-point number, or string version of a value?
