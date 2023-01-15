@@ -11,6 +11,5 @@ for i in glob.glob("*.txt"):
     currentFile = open(i)
     file = currentFile.read() 
     print(file)
-    #print(type(textCurrentFile))
     searchedText = ur_regex.search(file)
     print(searchedText.group() if searchedText else None)
